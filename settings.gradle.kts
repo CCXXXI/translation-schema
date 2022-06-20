@@ -1,3 +1,2 @@
 
-rootProject.name = "template-repo-kotlin"
-
+rootProject.name = "translation-schema"
