@@ -1,4 +1,4 @@
-# Untitled Kotlin Project
+# Translation Schema
 
 [![GitHub license](https://img.shields.io/github/license/ccxxxi/translation-schema)](LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ccxxxi/translation-schema)](../../commits)
@@ -6,4 +6,6 @@
 [![Language grade: Java](https://img.shields.io/lgtm/grade/java/g/CCXXXI/translation-schema.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/CCXXXI/translation-schema/context:java)
 [![CodeFactor](https://www.codefactor.io/repository/github/ccxxxi/translation-schema/badge)](https://www.codefactor.io/repository/github/ccxxxi/translation-schema)
 
-A modern programming language that makes developers happier.
+ECNU 编译原理与技术课程实践项目。
+
+文档见 [Wiki](../../wiki)。
